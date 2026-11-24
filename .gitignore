@@ -1,0 +1,16 @@
+.env
+.venv/
+kits/
+work/
+.ledger/
+__pycache__/
+*.mp4
+*.mp3
+*.wav
+STATUS.md
+.DS_Store
+lines.json
+ledger.json
+results/
+.mcp.json
+.claude/

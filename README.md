@@ -38,11 +38,13 @@ docs/services.md          сервисы и провайдеры: зачем, с
 docs/mcp.md               как подключить серверы курса и клуба
 docs/week1.md             первая неделя спринта по дням
 docs/crosspost.md         кросс-постинг: один ролик на все площадки, правила площадок
+docs/youtube.md           YouTube: длинные и Shorts, обложки, заголовки, срез своей ниши
 docs/omni_spec.example.json  пример задания на говорящий клип
 scripts/check_env.py      проверка готовности компьютера и ключей
 scripts/get_kits.py       скачать наборы клуба
 scripts/nano_banana.py    картинки: кадр образа, перебивки, персонаж (Nano Banana через Grsai)
 scripts/omni_clips.py     говорящие клипы из фото (Omni через SCAPI)
+scripts/youtube_niche.py  срез ниши на YouTube: что набирает просмотры (бесплатный ключ YouTube Data API)
 .env.example              образец файла ключей
 STATUS.template.md        журнал шагов, чтобы продолжать после перерыва
 ```

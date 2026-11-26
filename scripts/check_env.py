@@ -21,7 +21,7 @@ NEED = [  # программа, команда версии, минимальн�
     ("curl", ["curl", "--version"], (7, 0), "запросы к сервисам"),
 ]
 KEYS_REQUIRED = ["ELEVENLABS_API_KEY", "ELEVENLABS_VOICE_ID"]
-KEYS_OPTIONAL = ["GRSAI_API_KEY", "SCAPI_KEY", "YICIYUANG_API_KEY", "GEMINI_API_KEY"]
+KEYS_OPTIONAL = ["GRSAI_API_KEY", "SCAPI_KEY", "YICIYUANG_API_KEY", "GEMINI_API_KEY", "YOUTUBE_API_KEY"]
 
 
 def version(cmd):
